@@ -23,8 +23,11 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/mfaisalqure
 
 A Random Forest model was used to determine feature importance in who would leave or not. The below plot shows the most important factors in determining if a employee would leave or not.
 
+![text1](images/random_forest.PNG)
 
 Also a Decision Tree model was used to determine the feature importance, the plot below shows the Decision Tree features chosen.
+
+![text2](images/decision_tree.PNG)
 
 ## Conclusion
 
